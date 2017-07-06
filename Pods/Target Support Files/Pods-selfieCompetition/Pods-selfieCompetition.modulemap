@@ -1,0 +1,6 @@
+framework module Pods_selfieCompetition {
+  umbrella header "Pods-selfieCompetition-umbrella.h"
+
+  export *
+  module * { export * }
+}
